@@ -1,0 +1,5 @@
+
+*.xml
+.idea/tg_face_finder_bot.iml
+my_token.py
+__pycache__/my_token.cpython-38.pyc
